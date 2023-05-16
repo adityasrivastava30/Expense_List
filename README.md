@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-![initial_image ](https://github.com/adityasrivastava30/Expense_List/assets/88306932/721b6281-18db-4bcf-8f21-81d85ae1beec)
+![initial_image ](https://github.com/adityasrivastava30/Expense_List/assets/88306932/721b6281-18db-4bcf-8f21-81d85ae1beec|width=100)
 ![After_adding_the_expenses](https://github.com/adityasrivastava30/Expense_List/assets/88306932/f6b0978b-6d7e-4f07-9d1d-d4463a527a29)
 ![Deleting_expenses](https://github.com/adityasrivastava30/Expense_List/assets/88306932/2bfd5a6a-5ac8-4b13-8048-39b51cf9e9f8)
 
