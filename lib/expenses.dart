@@ -50,18 +50,7 @@ class _ExpenseState extends State<Expenses> {
     ));
   }
 
-  final List<Expense> _registerdExpenses = [
-    // Expense(
-    //     title: 'flutter_course',
-    //     amount: 1999,
-    //     date: DateTime.now(),
-    //     category: Category.work),
-    // Expense(
-    //     title: 'Cinema',
-    //     amount: 15.69,
-    //     date: DateTime.now(),
-    //     category: Category.leisure),
-  ];
+  final List<Expense> _registerdExpenses = [];
 
   @override
   Widget build(BuildContext context) {
